@@ -7,8 +7,9 @@
 }
 
 .body a img {
-    margin: 0 10px;
+    margin: 0 8px;
     width: 30px;
+    transition: 0.2s;
 }
 
 .body a img:hover {
@@ -18,5 +19,5 @@
 .name {
     font-size: 36px;
     margin-bottom: 30px;
-    font-family: "Source Sans Pro", sans-serif;
+    font-family: "Ubuntu", sans-serif;
 }
